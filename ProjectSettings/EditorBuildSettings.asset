@@ -4,7 +4,13 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Welcome.unity
+    guid: cc7f8e4b1f7f2cb49b7ac9ea7323fd8c
+  - enabled: 1
+    path: Assets/Scenes/Smartphones.unity
+    guid: d5a5a6f030a66614eb6124d852c8e683
   m_configObjects:
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 733daf1a48b3c074d8e38b6e74f2909f, type: 2}
     xr.sdk.mock-hmd.settings: {fileID: 11400000, guid: 4c730a20f1990cb448be675d30ba9a11, type: 2}

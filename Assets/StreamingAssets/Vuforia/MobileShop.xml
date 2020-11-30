@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Jiophone" size="100.000000 94.469627" />
+    <ImageTarget name="iphoneXs" size="100.000000 178.421707" />
+    <ImageTarget name="iphonese" size="100.000000 176.694046" />
+    <ImageTarget name="MotoG5" size="100.000000 162.843292" />
+    <ImageTarget name="MiPowerBank" size="100.000000 193.089661" />
+    <ImageTarget name="MotoOnePower" size="100.000000 158.423111" />
+    <ImageTarget name="Nokia6_1Plus" size="100.000000 120.562332" />
+    <ImageTarget name="HardDrive" size="100.000000 151.712967" />
+    <ImageTarget name="MiBand5" size="100.000000 248.231293" />
+    <ImageTarget name="iphonese2020" size="100.000000 176.661514" />
+  </Tracking>
+</QCARConfig>
